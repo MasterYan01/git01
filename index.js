@@ -7,4 +7,4 @@ console.log(ming);
 
 O.O~~~i love u ^.^
 dear ming 
-ccc
+ccc happy new year
