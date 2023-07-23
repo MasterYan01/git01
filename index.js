@@ -2,3 +2,4 @@
 ming =() => {
   return 彥銘被提
 }
+console.log(ming);
