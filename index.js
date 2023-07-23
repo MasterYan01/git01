@@ -3,14 +3,7 @@ ming =() => {
   return 彥銘被提
 }
 console.log(ming);
-console.log(ming);
-console.log(ming);
-console.log(ming);
-console.log(ming);
-console.log(ming);
-console.log(ming);
-console.log(ming);
-console.log(ming);
-console.log(ming);
 
-O.O~~~i love u 
+
+O.O~~~i love u ^.^
+dear ming 
