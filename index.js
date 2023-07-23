@@ -13,3 +13,4 @@ console.log(ming);
 console.log(ming);
 console.log(ming);
 
+O.O
