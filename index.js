@@ -8,4 +8,4 @@ console.log(ming);
 O.O~~~i love u ^.^
 dear ming 
 ccc happy new year
-shit Taiwan 破政府
+shit Taiwan Government 破政府
