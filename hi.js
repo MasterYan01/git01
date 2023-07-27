@@ -7,3 +7,6 @@ function hihih1hey(){
 //function hi(){
 //     return "hi"
 // }
+//function hi(){
+//     return "hi"
+// }
