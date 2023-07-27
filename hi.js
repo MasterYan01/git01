@@ -1,4 +1,4 @@
-function hihi(){
+function hihih1(){
     return "hi"
 }
 //function hi(){
