@@ -4,6 +4,7 @@ ming =() => {
 let hi ="hi"
 console.log(ming);
 console.log(ming);
+console.log(hi);
 
 
 //O.O~~~i love u ^.^a
