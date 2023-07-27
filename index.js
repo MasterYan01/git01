@@ -1,6 +1,7 @@
 ming =() => {
   return 彥銘被提
 }
+let hi ="hi"
 console.log(ming);
 console.log(ming);
 
